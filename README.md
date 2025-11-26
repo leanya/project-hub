@@ -18,7 +18,7 @@ This repository is a central hub to my projects, providing an overview of what I
         - Focus: MLflow
 
 - BBC News Headlines Data Engineering Series
-    - This series started out as an batch processing app to scrape, clean, and store news headlines daily for visualisation using Docker Compose on EC2. It extended to include  AWS infrastructure provisioning and app health monitoring, followed by deployment using Kubernetes and Helm. A real-time streaming version of the app was also developeds
+    - This series started out as an batch processing app to scrape, clean, and store news headlines daily for visualisation using Docker Compose on EC2. It extended to include  AWS infrastructure provisioning and app health monitoring, followed by deployment using Kubernetes and Helm. A real-time streaming version of the app was also developed
 
     - [batch_processing_bbc](https://github.com/leanya/batch_processing_bbc)
         - Core batch processing pipeline
