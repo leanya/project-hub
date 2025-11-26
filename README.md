@@ -14,7 +14,7 @@ This repository is a central hub to my projects, providing an overview of what I
 
 - Machine Learning and Experimentation
     - mlflow
-        - A machine learning experimentation project that track runs, tune parameters and compare models
+        - A machine learning experimentation project that tracks runs, tunes parameters and compares models
         - Focus: MLflow
 
 - BBC News Headlines Data Engineering Series
