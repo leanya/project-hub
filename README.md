@@ -13,8 +13,8 @@ This repository is a central hub to my projects, providing an overview of what I
         - Focus: Airflow, scheduling, automation
 
 - Machine Learning and Experimentation
-    - mlflow
-        - A machine learning experimentation project that tracks runs, tunes parameters and compares models
+    - [mlflow](https://github.com/leanya/mlflow)
+        - A machine learning experimentation project that tracks runs, tunes parameters, compares models, and manages model version
         - Focus: MLflow
 
 - BBC News Headlines Data Engineering Series
