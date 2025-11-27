@@ -1,5 +1,5 @@
 #### Introduction of project-hub
-Hello! Thank you for visiting and I am glad you are here. 
+Hello! Thank you for visiting. 
 
 This repository is a central hub to my projects, providing an overview of what I have worked on and what I am currently exploring. 
 
@@ -22,7 +22,7 @@ This repository is a central hub to my projects, providing an overview of what I
 
     - [batch_processing_bbc](https://github.com/leanya/batch_processing_bbc)
         - Core batch processing pipeline
-        - Focus: PostgreSQL, Streamlit, Docker Compose, CI/CD
+        - Focus: PostgreSQL, Streamlit, Docker Compose, CI/CD, Text Mining
     - [batch_processing_bbc_infra](https://github.com/leanya/batch_processing_bbc_infra) 
         - Infrastructure provisioning and monitoring
         - Focus: Terraform, Prometheus, Grafana, Docker Compose, CI/CD
