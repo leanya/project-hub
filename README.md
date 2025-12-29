@@ -36,7 +36,7 @@ This repository is a central hub to my projects, providing an overview of what I
 
 - Retrival-Augmented Generation (RAG) chatbot
     - [RAG chatbot](https://github.com/leanya/study_rag)
-        - This project implements a RAG chatbot to support studying data structures topics. This reduces hallucination and generate answers that are more aligned with the topics
+        - This project implements a RAG chatbot to support studying data structures topics. This reduces hallucination and generates answers that are more aligned with the topics
         - Focus: ElasticSearch, HuggingFace, FastAPI, Streamlit
 
 
