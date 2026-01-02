@@ -38,6 +38,7 @@ This repository is a central hub to my projects, providing an overview of what I
     - [RAG chatbot](https://github.com/leanya/study_rag)
         - This project implements a RAG chatbot to support studying data structures topics. This reduces hallucination and generates answers that are more aligned with the topics
         - Focus: ElasticSearch, HuggingFace, FastAPI, Streamlit
+        - [Accompanying notes on medium](https://medium.com/@LeanNotes/building-a-rag-chatbot-with-fastapi-and-streamlit-dd5ab9bd7e8e)
 
 
  
