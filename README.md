@@ -8,7 +8,7 @@ This repository is a central hub to my projects, providing an overview of what I
 - Data Engineering Foundations 
     - [data_engineering_projects](https://github.com/leanya/data_engineering_projects)
         - A collection of foundational data engineering projects inspired by the Udacity Data Engineering Nanodegree, including work with relational databases, NoSQL systems, and Airflow pipelines
-    - [airflow_deployment](https://github.com/leanya/airflow_deployment)
+    - airflow_deployment(private — deployment in progress on Render)
         - Incremental data loading using Airflow
         - Focus: Airflow, scheduling, automation
 
@@ -17,7 +17,7 @@ This repository is a central hub to my projects, providing an overview of what I
         - A machine learning experimentation project that tracks runs, tunes parameters, compares models, and manages model version
         - Focus: MLflow
 
-- BBC News Headlines Data Engineering Series
+- News Headlines Data Engineering Series
     - This series started out as an batch processing app to scrape, clean, and store news headlines daily for visualisation using Docker Compose on EC2. It extended to include  AWS infrastructure provisioning and app health monitoring, followed by deployment using Kubernetes and Helm. A real-time streaming version of the app was also developed
 
     - [batch_processing_bbc](https://github.com/leanya/batch_processing_bbc)
