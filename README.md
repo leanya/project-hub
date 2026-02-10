@@ -8,9 +8,6 @@ This repository is a central hub to my projects, providing an overview of what I
 - Data Engineering Foundations 
     - [data_engineering_projects](https://github.com/leanya/data_engineering_projects)
         - A collection of foundational data engineering projects inspired by the Udacity Data Engineering Nanodegree, including work with relational databases, NoSQL systems, and Airflow pipelines
-    - airflow_deployment(private — deployment in progress on Render)
-        - Incremental data loading using Airflow
-        - Focus: Airflow, scheduling, automation
 
 - Machine Learning and Experimentation
     - [mlflow](https://github.com/leanya/mlflow)
@@ -39,6 +36,12 @@ This repository is a central hub to my projects, providing an overview of what I
         - This project implements a Retrieval-Augmented Generation (RAG) chatbot to support the study of data structures topics. By grounding responses with external documents, RAG reduces hallucination and generates answers that are more relevant and aligned with the topics.
         - Focus: ElasticSearch, HuggingFace, FastAPI, Streamlit
         - [Accompanying notes on medium](https://medium.com/@LeanNotes/building-a-rag-chatbot-with-fastapi-and-streamlit-dd5ab9bd7e8e)
+
+
+- Low-Rank Adaptation (LoRA) chatbot
+    - [LoRA chatbot](https://github.com/leanya/lora_translation)
+        - This project demonstrates LoRA fined-tuned MarianMT model for English to French translation. Adapters are added to the key and value projections in self-attention and cross-attention layers.
+        - Focus: HuggingFace, FastAPI, Gradio
 
 
  
