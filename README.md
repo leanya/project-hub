@@ -34,7 +34,7 @@ This repository is a central hub to my projects, providing an overview of what I
 - Retrival-Augmented Generation (RAG) chatbot
     - [RAG chatbot](https://github.com/leanya/study_rag)
         - This project implements a Retrieval-Augmented Generation (RAG) chatbot to support the study of data structures topics. By grounding responses with external documents, RAG reduces hallucination and generates answers that are more relevant and aligned with the topics.
-        - Focus: ElasticSearch, HuggingFace, FastAPI, Streamlit
+        - Focus: ElasticSearch, Google AI API, HuggingFace, FastAPI, Streamlit, Docker Compose
         - [Accompanying notes on medium](https://medium.com/@LeanNotes/building-a-rag-chatbot-with-fastapi-and-streamlit-dd5ab9bd7e8e)
 
 
@@ -42,6 +42,11 @@ This repository is a central hub to my projects, providing an overview of what I
     - [LoRA chatbot](https://github.com/leanya/lora_translation)
         - This project demonstrates LoRA fined-tuned MarianMT model for English to French translation. Adapters are added to the key and value projections in self-attention and cross-attention layers.
         - Focus: HuggingFace, FastAPI, Gradio
+
+- Invoice AI Automation Workflow
+    - [Invoice AI workflow](https://github.com/leanya/invoice-ai-workflow)
+    - This project implements an AI automation workflow that extracts, validates, stores invoice data from PDF documents using LLM prompt engineering, with a human-in-the-loop review process for uncertain cases.
+    - Focus: Google AI API, FastAPI, LLM Prompt Engineering, PostgreSQL, Docker Compose
 
 
  
